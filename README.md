@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abbymma
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on various job opportunities
+- 👀 I’m passionate about uncovering insights through Data Analysis
+- 🌱 I’m an expert in Excel and Power BI with hands-on experience in building interactive dashboards and reports
+- 💞️ I’m open to collaborating on data-driven projects and job opportunities
 - 📫 How to reach me, i can be reach through my linkedin
 - 😄 Pronouns: ...she
 - ⚡ Fun fact: ... Dancing
