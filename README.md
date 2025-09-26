@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abbymma
+- 👋 Hi, I’m Abigail Emmanuel
 - 👀 I’m passionate about uncovering insights through Data Analytics
 - 🌱 I’m an expert in Excel and Power BI with hands-on experience in building interactive dashboards and reports
 - 💞️ I’m open to collaborating on data driven projects and job opportunities
